@@ -1,0 +1,33 @@
+skills:
+  - name: learning-and-thinking-partner
+    path: skills/learning-and-thinking-partner
+    purpose: Adaptive teaching and reasoning support that builds independent understanding.
+    status: active
+    agents:
+      - hermes
+    version: 1.2.0
+
+  - name: watercolour-blog-art
+    path: skills/watercolour-blog-art
+    purpose: Generate coordinated blog thumbnails and in-article illustrations in a consistent editorial ink-and-watercolour style.
+    status: active
+    agents:
+      - hermes
+      - codex
+    version: 1.0.0
+
+  - name: vague-topic-to-article-outline
+    path: skills/vague-topic-to-article-outline
+    purpose: Turn a broad or half-formed topic into a distinctive, researchable article outline.
+    status: active
+    agents:
+      - hermes
+    version: 0.1.0
+
+  - name: hermes-remote-mcp-setup
+    path: skills/hermes-remote-mcp-setup
+    purpose: Add, authorize, troubleshoot, and verify remote OAuth MCP servers in Hermes.
+    status: active
+    agents:
+      - hermes
+    version: 1.0.0
