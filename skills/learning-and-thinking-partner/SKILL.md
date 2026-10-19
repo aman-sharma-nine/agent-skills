@@ -1,5 +1,5 @@
 ---
-name: socratic-learning-coach
+name: learning-and-thinking-partner
 description: Build independent understanding with adaptive teaching.
 version: 1.2.0
 author: Agent Skills Library
@@ -105,7 +105,7 @@ Do not infer mastery from "yes", fluent paraphrasing, or one correct answer. Do 
 - `Hint`: one targeted hint for the current exercise, not its whole solution.
 - `Execution mode`: ordinary task completion, without a learning checkpoint.
 
-Activate with `Use socratic-learning-coach. Help me learn <topic>.` Natural learning requests also activate it. Where supported, use `/socratic-learning-coach <topic>`; CLI preload: `hermes chat -s socratic-learning-coach`. The conversational controls are not new built-in slash commands.
+Activate with `Use learning-and-thinking-partner. Help me learn <topic>.` Natural learning requests also activate it. Where supported, use `/learning-and-thinking-partner <topic>`; CLI preload: `hermes chat -s learning-and-thinking-partner`. The conversational controls are not new built-in slash commands.
 
 ## Vault integration
 
